@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Consultor SEO
+title: Necesitas resultados
 date: 2023-09-28 10:18:00
 categories: [seo]
 ---
 
-hablar sobre mi experiencia en SEO
+hablar sobre mi experiencia en SEO y dirección de proyectos
 
 ![alt](https://picsum.photos/800/300)
 
